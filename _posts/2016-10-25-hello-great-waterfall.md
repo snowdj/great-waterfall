@@ -19,11 +19,11 @@ published: true
 Recall our simple model of a single price-taking firm from section 1.7 in Chapter 1.
 There are two key elements of that model. The first is the relationship between emissions
 and output:
-(2.1) e = (1− x) y
+(2.1) $$e = (1− x) y$$
 The second is the production-cost function:
 
 
-(2.2)
+(2.2) 
 γ
 (1 2 ) 2 c( y, x) x y +
 =
