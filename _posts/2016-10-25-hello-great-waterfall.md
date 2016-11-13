@@ -16,3 +16,17 @@ published: true
 ## 2. THE EQUILIBRIUM PRICE EFFECTS OF POLLUTION POLICY
 
 
+### 2.1 THE MODEL
+Recall our simple model of a single price-taking firm from section 1.7 in Chapter 1.
+There are two key elements of that model. The first is the relationship between emissions
+and output:
+(2.1) e = (1− x) y
+The second is the production-cost function:
+
+
+(2.2)
+γ
+(1 2 ) 2 c( y, x) x y +
+=
+where γ ≥ 0 is a production-cost parameter. We now extend that model to one with
+multiple firms, where γ is idiosyncratic.
