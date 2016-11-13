@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-11-13-ECON481-01.md
+title: 2016-11-13-ECON481-01
 issueid: 1
 categories:
   - econ481
@@ -61,5 +61,7 @@ The size of β in this example captures the extent to which firms differ.
 
 
 In the limit as β →∞ , all firms are identical and Ω →α .
+
+
 
 
