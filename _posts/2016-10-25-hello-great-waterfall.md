@@ -10,17 +10,6 @@ tags:
 published: true
 ---
 
----
-published: true
-layout: post
-categories:
-  - econ481
-tags:
-  - environment - resource
----
-
-
-
 2016 fall Kennedy: Environmental Economics 2
 
 ## 2. THE EQUILIBRIUM PRICE EFFECTS OF POLLUTION POLICY
