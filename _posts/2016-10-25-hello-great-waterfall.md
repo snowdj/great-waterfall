@@ -1,12 +1,18 @@
 ---
 layout: post
-title: hello great-waterfall
+title: 2016-11-14-econ481.md
 issueid: 1
 categories:
-- great-waterfall
+  - econ481
 tags:
-- Jekyll
-- Theme
+  - project
+  - environment
+  - resource
+published: true
 ---
 
-水遁：大瀑布之术（说得这么玄乎，其实就一 Jekyll/CSS 主题额已）
+2016 fall Kennedy: Environmental Economics 2
+
+## 2. THE EQUILIBRIUM PRICE EFFECTS OF POLLUTION POLICY
+
+
