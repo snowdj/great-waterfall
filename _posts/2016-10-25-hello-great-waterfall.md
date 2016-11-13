@@ -30,3 +30,6 @@ The second is the production-cost function:
 =
 where γ ≥ 0 is a production-cost parameter. We now extend that model to one with
 multiple firms, where γ is idiosyncratic.
+
+
+
