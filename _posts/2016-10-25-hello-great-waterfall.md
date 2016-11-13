@@ -38,4 +38,11 @@ aggregate demand is
 (2.3) Q( p) = a .bp
 where a > 0 and b > 0 .
 
+We begin by deriving the market equilibrium in the absence of regulation. This will serve
+as a template for solving the more complicated problem when emissions are constrained.
+Moreover, the solution that we later derive for aggregate abatement cost can be usefully
+expressed in terms of the unregulated equilibrium values, so it is helpful to derive those
+first.
+
+2.2 MARKET EQUILIBRIUM WITHOUT REGULATION
 
