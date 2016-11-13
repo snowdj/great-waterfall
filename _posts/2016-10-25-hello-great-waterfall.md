@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-11-14-econ481.md
+title: 2016-11-14-econ481-02.md
 issueid: 1
 categories:
   - econ481
@@ -45,4 +45,10 @@ expressed in terms of the unregulated equilibrium values, so it is helpful to de
 first.
 
 ### 2.2 MARKET EQUILIBRIUM WITHOUT REGULATION
+
+
+
+
+
+
 
