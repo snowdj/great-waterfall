@@ -33,3 +33,9 @@ multiple firms, where γ is idiosyncratic.
 
 
 
+Output is homogeneous and
+aggregate demand is
+(2.3) Q( p) = a .bp
+where a > 0 and b > 0 .
+
+
