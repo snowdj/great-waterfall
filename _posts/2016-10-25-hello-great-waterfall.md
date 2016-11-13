@@ -44,5 +44,5 @@ Moreover, the solution that we later derive for aggregate abatement cost can be 
 expressed in terms of the unregulated equilibrium values, so it is helpful to derive those
 first.
 
-2.2 MARKET EQUILIBRIUM WITHOUT REGULATION
+### 2.2 MARKET EQUILIBRIUM WITHOUT REGULATION
 
