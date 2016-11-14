@@ -1,5 +1,5 @@
 ---
-title: great-waterfall
+title: Econ Notes at UVic
 layout: page
 ---
 
@@ -13,6 +13,12 @@ layout: page
   <li class="listing-item">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</p>
+
+    <div class="post-entry">
+      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+	  <a href="{{ post.url | prepend: site.url }}" class="post-read-more">Read More</a>
+</div>
   </li>
 {% endfor %}
 </ul>
