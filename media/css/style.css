@@ -61,3 +61,9 @@ embed,object,iframe{display:block;margin:4px auto;}
 .glyphicon-tags:before {
   content: "\e042";
 }
+
+a, header #header h1 a, article .title a, article .meta .tags a, article .divider a {
+  text-decoration: none;
+  color: #bb2222; }
+  a:hover, header #header h1 a:hover, article .title a:hover, article .meta .tags a:hover, article .divider a:hover {
+color: #dd1144; }
