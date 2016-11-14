@@ -19,25 +19,27 @@ layout: page
             {{ post.subtitle }}
         </h3>
         {% endif %}
-
+	
+	<div class="post-tag">
 	<span class="post-date">
             
             {% if post.tags != empty %}
             |
             {% for tag in post.tags %}
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tag/#{{ tag | slugify }}" >
-				<span class="glyphicon glyphicon-tag" aria-hidden="true"> </span> &nbsp; {{ tag }}
+				 &nbsp; {{ tag }}
 			</a>
             {% endfor %}
             {% endif %}
 	</span>
-    
+        </div> 
+	
     <!-- <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</p> -->
 
     <div class="post-entry">
       {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
 	  <a href="{{ post.url | prepend: site.url }}" class="post-read-more">Read More</a>
-</div>
+    </div>
   </li>
 {% endfor %}
 </ul>
