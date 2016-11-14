@@ -20,6 +20,22 @@ layout: page
         </h3>
         {% endif %}
 	
+	<div class="post-cat">
+
+            
+            {% if post.categories != empty %}
+            
+            {% for category in post.categories %}
+	    |
+			<a class="codinfox-tag-mark badge" href="{{ site.url }}/categories/#{{ category | slugify }}" >
+				 &nbsp; {{ category }}
+			</a>
+            {% endfor %}
+	    |
+            {% endif %}
+
+        </div> 
+	
 	<div class="post-tag">
 
             
@@ -27,7 +43,7 @@ layout: page
             
             {% for tag in post.tags %}
 	    |
-			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tag/#{{ tag | slugify }}" >
+			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tags/#{{ tag | slugify }}" >
 				 &nbsp; {{ tag }}
 			</a>
             {% endfor %}
