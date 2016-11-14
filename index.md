@@ -26,28 +26,29 @@ layout: page
             {% if post.categories != empty %}
             
             {% for category in post.categories %}
-	    |
+	    
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/categories/#{{ category | slugify }}" >
 				 &nbsp; {{ category }}
 			</a>
+			|
             {% endfor %}
-	    |
+	    ||
             {% endif %}
-	    <div class="post-tag">
-
+	    
             
             {% if post.tags != empty %}
             
             {% for tag in post.tags %}
-	    |
+	    
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tags/#{{ tag | slugify }}" >
 				 &nbsp; {{ tag }}
 			</a>
+			|
             {% endfor %}
-	    |
+	    
             {% endif %}
 
-            </div> 
+
 
         </div> 
 	
