@@ -33,10 +33,7 @@ layout: page
             {% endfor %}
 	    |
             {% endif %}
-
-        </div> 
-	
-	<div class="post-tag">
+	    <div class="post-tag">
 
             
             {% if post.tags != empty %}
@@ -50,7 +47,11 @@ layout: page
 	    |
             {% endif %}
 
+            </div> 
+
         </div> 
+	
+	
 	
     <!-- <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</p> -->
 
