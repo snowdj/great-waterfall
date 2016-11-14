@@ -40,7 +40,9 @@ multiple firms, where γ is idiosyncratic.
 
 Output is homogeneous and
 aggregate demand is
-(2.3) Q( p) = a .bp
+(2.3)
+
+$$Q( p) = a + b*p$$
 where a > 0 and b > 0 .
 
 We begin by deriving the market equilibrium in the absence of regulation. This will serve
