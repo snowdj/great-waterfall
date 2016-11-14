@@ -11,9 +11,9 @@ layout: page
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
   <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>    
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}
