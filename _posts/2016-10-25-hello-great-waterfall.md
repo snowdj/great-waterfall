@@ -21,7 +21,9 @@ There are two key elements of that model. The first is the relationship between 
 and output:
 
 
-(2.1) $$e = (1− x) y$$
+(2.1) 
+
+$$e = (1− x) y$$
 
 
 The second is the production-cost function:
@@ -54,8 +56,7 @@ first.
 Market surplus is the sum of aggregate profit and consumer surplus. Aggregate profit is
 simply equal to the sum of individual profits:
 
-
-MS = Π +  CS
+$$MS = Π +  CS$$
 
 
 #### A Complication: Free Entry and the Number of Firms
@@ -65,6 +66,9 @@ The size of β in this example captures the extent to which firms differ.
 
 
 In the limit as β →∞ , all firms are identical and Ω →α .
+
+
+
 
 
 
