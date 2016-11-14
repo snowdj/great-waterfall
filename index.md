@@ -26,11 +26,11 @@ layout: page
             {% if post.categories != empty %}
             
             {% for category in post.categories %}
-	    
+	    |
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/categories/#{{ category | slugify }}" >
 				 &nbsp; {{ category }}
 			</a>
-			|
+			
             {% endfor %}
 	    ||
             {% endif %}
