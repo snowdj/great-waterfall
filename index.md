@@ -21,17 +21,19 @@ layout: page
         {% endif %}
 	
 	<div class="post-tag">
-	<span class="post-date">
+
             
             {% if post.tags != empty %}
-            |
+            
             {% for tag in post.tags %}
+	    |
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tag/#{{ tag | slugify }}" >
 				 &nbsp; {{ tag }}
 			</a>
             {% endfor %}
+	    |
             {% endif %}
-	</span>
+
         </div> 
 	
     <!-- <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</p> -->
