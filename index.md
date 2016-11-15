@@ -13,16 +13,16 @@ layout: page
   <li class="listing-item">
 
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>    
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
+       
+       {% if post.subtitle %}
+        <h5 class="post-subtitle">
             {{ post.subtitle }}
-        </h3>
-        {% endif %}
-	
-	<div class="tags">
+        </h5>
+       {% endif %}    
+    
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>    
 
-            
+ 
             {% if post.categories != empty %}
             Catogories:
             {% for category in post.categories %}
@@ -49,9 +49,6 @@ layout: page
             {% endif %}
 
 
-
-        </div> 
-	
 	
 	
     <!-- <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</p> -->
