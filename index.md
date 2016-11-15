@@ -12,7 +12,7 @@ layout: page
   {% endif %}
   <li class="listing-item">
 
-    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><h3 class="h1 post-title">{{ post.title }}</h3></a>
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>    
         {% if post.subtitle %}
         <h3 class="post-subtitle">
@@ -24,18 +24,18 @@ layout: page
 
             
             {% if post.categories != empty %}
-            
+            Catogories:
             {% for category in post.categories %}
-	    |
+	    
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/categories/#{{ category | slugify }}" >
 				 &nbsp; #{{ category }}
 			</a>
 			
             {% endfor %}
-	    ||
+	    
             {% endif %}
 	    
-            
+            |tags:
             {% if post.tags != empty %}
             
             {% for tag in post.tags %}
@@ -43,7 +43,7 @@ layout: page
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tags/#{{ tag | slugify }}" >
 				 &nbsp; #{{ tag }}
 			</a>
-			|
+			
             {% endfor %}
 	    
             {% endif %}
