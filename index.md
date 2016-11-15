@@ -35,9 +35,9 @@ layout: page
 	    
             {% endif %}
 	    
-            |tags:
-            {% if post.tags != empty %}
             
+            {% if post.tags != empty %}
+            |&nbsp; tags:
             {% for tag in post.tags %}
 	    
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tags/#{{ tag | slugify }}" >
