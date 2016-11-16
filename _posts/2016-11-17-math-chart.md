@@ -7,7 +7,7 @@ we can show math and chart in markdown with java scripts help.
 add those two in your head.html using liquor template. 
 
 
-
+{% raw %}
 <!--
 <script src="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.min.js"></script>
 <link rel="stylesheet" href="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.css">
@@ -22,3 +22,4 @@ add those two in your head.html using liquor template.
    </script>
    {% endif %}
 <!--
+{% endraw %}
