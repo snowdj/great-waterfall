@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 we can show math and chart in markdown with java scripts help.
