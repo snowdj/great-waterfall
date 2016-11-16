@@ -12,7 +12,7 @@ add those two in your head.html using liquor template.
 <script src="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.min.js"></script>
 <link rel="stylesheet" href="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.css">
 <script>mermaid.initialize({startOnLoad:true});</script>
-<!--
+ -->
 
 
 <!--
@@ -21,5 +21,5 @@ add those two in your head.html using liquor template.
    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
    </script>
    {% endif %}
-<!--
+ -->
 {% endraw %}
