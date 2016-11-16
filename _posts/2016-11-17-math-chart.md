@@ -4,7 +4,7 @@ layout: post
 ---
 we can show math and chart in markdown with java scripts help.
 
-## A New Post
+add those two in your head.html using liquor template. 
 
 
 
