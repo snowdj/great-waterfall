@@ -1,6 +1,7 @@
 ---
 title: Econ Notes at UVic
 layout: page
+published: true
 ---
 
 <ul class="listing">
@@ -24,11 +25,11 @@ layout: page
 
  
             {% if post.categories != empty %}
-            Catogories:
+            
             {% for category in post.categories %}
 	    
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/categories/#{{ category | slugify }}" >
-				 &nbsp; #{{ category }}
+				 &nbsp; %{{ category }}
 			</a>
 			
             {% endfor %}
@@ -37,7 +38,7 @@ layout: page
 	    
             
             {% if post.tags != empty %}
-            |&nbsp; tags:
+            |&nbsp;
             {% for tag in post.tags %}
 	    
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tags/#{{ tag | slugify }}" >
