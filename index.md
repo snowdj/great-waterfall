@@ -29,7 +29,7 @@ published: true
             {% for category in post.categories %}
 	    
 			<a class="codinfox-tag-mark badge" href="{{ site.url }}/categories/#{{ category | slugify }}" >
-				 &nbsp; %{{ category }}
+				 &nbsp; @{{ category }}
 			</a>
 			
             {% endfor %}
@@ -55,7 +55,7 @@ published: true
     <!-- <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</p> -->
 
     <div class="post-entry">
-      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+      {{ post.content | truncatewords: 75 | strip_html | xml_escape}}
 	  <a href="{{ post.url | prepend: site.url }}" class="post-read-more">Read More</a>
     </div>
   </li>
