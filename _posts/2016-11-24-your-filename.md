@@ -10,7 +10,10 @@ tags:
 
 
 #### Forest resources
-_Definitions_
+
+
+
+_Definitions_ 
 
 **Current annual increment (CAI)** – year-to-year growth. We will
 measure growth in terms of volume (e.g., cubic feet).
@@ -29,5 +32,8 @@ maturity.
 
 **Softwood** – trees that produce seeds with no covering; usually
 have needle- or scale-like leaves.
+
+[source](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/T_GROWTH.HTM)
+
 
 
