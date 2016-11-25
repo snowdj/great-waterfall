@@ -35,5 +35,19 @@ have needle- or scale-like leaves.
 
 [source](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/T_GROWTH.HTM)
 
+Juvenile phase (youth) - accelerating rate of growth.
+![](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/g/juvenile.GIF)
 
-![Juvenile phase (youth) - accelerating rate of growth.](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/g/juvenile.GIF)
+
+Full vigour phase (maturity) - constant rate of growth
+
+![](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/g/mature.GIF)
+
+
+
+Senescent phase - decelerating rate of growth.
+
+
+![](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/g/senescen.GIF)
+
+
