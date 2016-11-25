@@ -34,3 +34,6 @@ maturity.
 have needle- or scale-like leaves.
 
 [source](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/T_GROWTH.HTM)
+
+
+![Juvenile phase (youth) - accelerating rate of growth.](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/g/juvenile.GIF)
