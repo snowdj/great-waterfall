@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: ECON382 2016 Fall Forestry
 category: econ382
@@ -34,6 +34,3 @@ maturity.
 have needle- or scale-like leaves.
 
 [source](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/T_GROWTH.HTM)
-
-
-
