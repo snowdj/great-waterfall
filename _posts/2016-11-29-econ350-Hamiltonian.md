@@ -31,6 +31,12 @@ $$
 H(Y_t, Z_t, \pi_{t+1}, t) = F(Y_t, Z_t,t) +  \pi_{t+1} Q(Y_t, Z_t, \pi_{t+1}, t)
 $$
 
+Or
+
+$$
+\pi_{t+1} -\pi_{t} = -H_{Y_{t}}
+$$
+
 For each period , maximize H by choosing Z_t Y_t in peroid t.
 
 
