@@ -7,6 +7,32 @@ tags:
   - dynamic programming
   - econ457
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+Shortest Path problem
+
+Knapsack problem
+
+Tower of Hanoi Puzzle
+
+Travelling Salesman Problem (??)
+
+Critical Path Problem (Chapter 10)
+
+
+Dijkstra’s Algorithm (BYO) (details in due course)
+
+### 9.1 Shortest Path Problem
+
+#### 9.1.1 Terminology
+
+Path
+Predecessor
+Successor
+Immediate Predecessor
+immediate Successor
+Origin (no predecessor)
+Destination (no  successors)
+Cycle
+Acyclic graph
+
