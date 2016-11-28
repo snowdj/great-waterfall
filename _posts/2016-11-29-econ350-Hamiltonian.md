@@ -91,7 +91,12 @@ $$
 5.  Hamiltonian FOC.
 
 
-
+ a. $L_{Z_{t}} = F_{Z_{t}}   +  \pi_{t+1}  Q^*_{Z_{t}}  $
+ 
+ 
+ b.
+ 
+ c.
 
 
 
