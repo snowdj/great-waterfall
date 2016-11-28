@@ -45,11 +45,14 @@ Transform dynamic problem into a equence of static problems that are connectec b
 
 3. Intertemporal connector for $\pi$.
 
-Or
+
 
 $$
 \pi_{t+1} -\pi_{t} = -H_{Y_{t}}
 $$
 
+Or by the Envolope thereom
 
-
+$$
+\pi_{t+1} -\pi_{t} = -L_{Y_{t}}
+$$
