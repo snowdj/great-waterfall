@@ -105,4 +105,18 @@ d H^* /over d \pi_{t+1} = $Y_{t+1} - Y_{t}
 $$
 
 
+##### Solve
+
+1. clculate a. b. c. for each period
+
+2. start in T
+
+3. solve backwards,
+
+
+
 #### 48 Example
+
+
+
+
