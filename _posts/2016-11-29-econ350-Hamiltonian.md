@@ -48,7 +48,7 @@ Transform dynamic problem into a equence of static problems that are connectec b
 
 
 $$
-\pi_{t+1} -\pi_{t} = -H_{Y_{t}}
+\pi_{t+1} -\pi_{t} = -H^*_{Y_{t}}
 $$
 
 Or by the Envolope thereom
@@ -91,13 +91,18 @@ $$
 5.  Hamiltonian FOC.
 
 
- a. $L_{Z_{t}} = F_{Z_{t}}   +  \pi_{t+1}  Q^*_{Z_{t}}  $
+ a. $$L_{Z_{t}} = F_{Z_{t}}   +  \pi_{t+1}  Q^*_{Z_{t}}  $$
  
  
- b.
+ b. 
+$$
+ -H^*_{Y_{t}}  = \pi_{t+1} -\pi_{t}
+$$
  
  c.
-
+$$
+d H^* /over d \pi_{t+1} = $Y_{t+1} - Y_{t}
+$$
 
 
 
