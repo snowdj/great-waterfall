@@ -17,6 +17,14 @@ factor out y_t in Lagrangean
 take derivative with respect to y_t
 
 
+$$
+\pi_{t+1} -\pi_{t} = -[F_{Y_t} + \pi_{t+1} Q_{Y_t}  ]
+$$
+
+where $Y_{t+1} - Y_{t} = Q_{t}$.
+
+
+
 #### Hamiltonian
 
 $$
@@ -27,4 +35,13 @@ For each period , maximize H by choosing Z_t Y_t in peroid t.
 
 
 ### 47 Maximum principle
+
+2. maximum principle
+
+Transform dynamic problem into a equence of static problems that are connectec by inter temporal euqations.
+
+
+
+3. Intertemporal connector for $\pi$.
+
 
