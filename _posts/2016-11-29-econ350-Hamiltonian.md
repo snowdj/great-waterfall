@@ -26,3 +26,5 @@ $$
 For each period , maximize H by choosing Z_t Y_t in peroid t.
 
 
+### 47 Maximum principle
+
