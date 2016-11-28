@@ -68,7 +68,28 @@ $$
 
 
 $$
--d H^* /over d \pi_{t+1} = - d L /over d \pi_{t+1}
+d H^* /over d \pi_{t+1} = d L /over d \pi_{t+1}
 $$
+
+And
+
+$$
+d H^* /over d \pi_{t+1} = Q_{t}
+$$
+
+
+where $Y_{t+1} - Y_{t} = Q_{t}$.
+
+Then
+
+$$
+d H^* /over d \pi_{t+1} = $Y_{t+1} - Y_{t}
+$$
+
+
+
+
+
+
 
 
