@@ -105,4 +105,4 @@ d H^* /over d \pi_{t+1} = $Y_{t+1} - Y_{t}
 $$
 
 
-
+#### 48 Example
