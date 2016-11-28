@@ -10,4 +10,12 @@ tags:
 ---
 ## 45 Stock-Flow problem
 
+Lagrangean
+
+factor out y_t in Lagrangean
+
+take derivative with respect to y_t
+
+
+
 
