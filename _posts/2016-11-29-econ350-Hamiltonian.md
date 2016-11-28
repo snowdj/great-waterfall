@@ -43,7 +43,7 @@ Transform dynamic problem into a equence of static problems that are connectec b
 
 
 
-3. Intertemporal connector for $\pi$.
+3. Intertemporal connector for $\pi$.   "$\pi$  connector "
 
 
 
@@ -56,3 +56,11 @@ Or by the Envolope thereom
 $$
 \pi_{t+1} -\pi_{t} = -L_{Y_{t}}
 $$
+
+
+4. "$Y$  connector "
+
+
+
+
+
