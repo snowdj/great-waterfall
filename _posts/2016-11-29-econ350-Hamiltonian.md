@@ -88,6 +88,9 @@ $$
 
 
 
+5.  Hamiltonian FOC.
+
+
 
 
 
