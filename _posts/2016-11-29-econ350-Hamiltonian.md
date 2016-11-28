@@ -58,9 +58,17 @@ $$
 $$
 
 
+Since
+
+$$
+-d H^* /over d Y_t = - d L /over d \Y_{t}
+$$
+
 4. "$Y$  connector "
 
 
-
+$$
+-d H^* /over d \pi_{t+1} = - d L /over d \pi_{t+1}
+$$
 
 
