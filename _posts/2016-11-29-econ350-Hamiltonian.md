@@ -120,6 +120,9 @@ $$
 
 P 156
 
+example 10.2 optimum growth
+
+
 
 
 
