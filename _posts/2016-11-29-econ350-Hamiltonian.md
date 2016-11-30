@@ -61,7 +61,7 @@ $$
 \pi_{t+1} -\pi_{t} = -H^*_{Y_{t}}
 $$
 
-Or by the Envolope thereom
+Or by the Envolope thereom: only direct effect of theta, induced effect zero.
 
 $$
 \pi_{t+1} -\pi_{t} = -L_{Y_{t}}
