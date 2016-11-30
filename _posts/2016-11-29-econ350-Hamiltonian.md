@@ -84,7 +84,7 @@ $$
 And
 
 $$
-{d H^* /over d \pi_{t+1}} = Q_{t}
+\frac{d H^* }{d \pi_{t+1}} = Q_{t}
 $$
 
 
