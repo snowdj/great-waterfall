@@ -103,15 +103,22 @@ $$
 
  a. $$H_{Z_{t}} = F_{Z_{t}}   +  \pi_{t+1}  Q^*_{Z_{t}}  $$
  
+ "The effect of z_t on y_t+1, equals its effects on Q(y,z,t), and the resulting chagne in the objective function is found by multiplying this by the shadow price  $\pi_{t+1}$  of y_t+1"
+ 
+ 
+ **"Thus the Hamiltonina offeres a simple way of altering the one-period objective function F(y,z, t) to take into account the future consequences of the choice of controls z at t."**
  
  b. 
 $$
  -H^*_{Y_{t}}  = \pi_{t+1} -\pi_{t}
 $$
  
+ 
+ 
+ 
 **" These can be thought of as a dividend. The change in price $ \pi_{t+1} -\pi_{t} $ is like a capital gain, except that the prices are in present-value terms, so $\pi_{t+1} $  contains an extra discount factor that captures the usual interest or opportunity cost of carrying y_t for one period. "**
 
-"When y_t is optimum, the overall marginal return ,or the sum of these components, should be zero. That is just what (10.8) express when written as "
+**"When y_t is optimum, the overall marginal return ,or the sum of these components, should be zero. That is just what (10.8) express when written as "**
 
 
 $$
