@@ -45,6 +45,8 @@ Transform dynamic problem into a equence of static problems that are connectec b
 
 (i) p150 interpretation of Hamiltonian
 
+**"Thus the Hamiltonina offeres a simple way of altering the one-period objective function F(y,z, t) to take into account the future consequences of the choice of controls z at t."**
+
 "zt will change F and y_t+1. "
 
 	- F term
@@ -106,6 +108,8 @@ $$
 $$
  -H^*_{Y_{t}}  = \pi_{t+1} -\pi_{t}
 $$
+ 
+ " These can be thought of as a dividend. The change in price $ \pi_{t+1} -\pi_{t} $ is like a capital gain, except that the prices are in present-value terms, so $\pi_{t+1} $  contains an extra discount factor that captures the usual interest or opportunity cost of " 
  
  c.
 $$
