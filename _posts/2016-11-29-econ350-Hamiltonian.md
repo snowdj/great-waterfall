@@ -48,7 +48,7 @@ Transform dynamic problem into a equence of static problems that are connectec b
 "zt will change F and y_t+1. "
 
 	- F term
-    - $\pi $
+    - $\pi Q(y, z, t) $
 
 
 3. Intertemporal connector for $\pi$.   "$\pi$  connector "
