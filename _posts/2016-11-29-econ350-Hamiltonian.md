@@ -39,12 +39,16 @@ For each period , maximize H by choosing Z_t Y_t in peroid t.
 
 2. maximum principle
 
+p150 
 Transform dynamic problem into a equence of static problems that are connectec by inter temporal euqations.
 
 
-p150 interpretation of Hamiltonian
+(i) p150 interpretation of Hamiltonian
 
-""
+"zt will change F and y_t+1. "
+
+	- F term
+    - $\pi $
 
 
 3. Intertemporal connector for $\pi$.   "$\pi$  connector "
