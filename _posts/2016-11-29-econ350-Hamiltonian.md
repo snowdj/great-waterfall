@@ -71,14 +71,14 @@ $$
 Since
 
 $$
--{d H^* /over d Y_t} = - {d L /over d Y_{t}}
+-\frac{d H^*} {d Y_t} = - \frac{d L } {d Y_{t}}
 $$
 
 4. "$Y$  connector "
 
 
 $$
-{d H^* /over d \pi_{t+1}} = {d L /over d \pi_{t+1}}
+\frac{d H^* }{d \pi_{t+1}} = \frac{d L }{ d \pi_{t+1}}
 $$
 
 And
