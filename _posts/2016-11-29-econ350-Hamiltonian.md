@@ -125,7 +125,7 @@ $$
 [F_{Y_t}] + \pi_{t+1} Q_{Y_t} +[  \pi_{t+1} -\pi_{t}] = 0 
 $$
 
-
+"This is an intertemporal no-arbitrage condition"
  
  c.
 $$
