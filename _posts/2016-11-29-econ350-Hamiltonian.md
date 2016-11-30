@@ -42,6 +42,10 @@ For each period , maximize H by choosing Z_t Y_t in peroid t.
 Transform dynamic problem into a equence of static problems that are connectec by inter temporal euqations.
 
 
+p150 interpretation of Hamiltonian
+
+""
+
 
 3. Intertemporal connector for $\pi$.   "$\pi$  connector "
 
