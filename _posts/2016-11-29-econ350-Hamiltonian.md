@@ -103,7 +103,7 @@ $$
 
  a. $$H_{Z_{t}} = F_{Z_{t}}   +  \pi_{t+1}  Q^*_{Z_{t}}  $$
  
- "The effect of z_t on y_t+1, equals its effects on Q(y,z,t), and the resulting chagne in the objective function is found by multiplying this by the shadow price  $\pi_{t+1}$  of y_t+1"
+**"The effect of z_t on y_t+1, equals its effects on Q(y,z,t), and the resulting chagne in the objective function is found by multiplying this by the shadow price  $\pi_{t+1}$  of y_t+1"**
  
  
  **"Thus the Hamiltonina offeres a simple way of altering the one-period objective function F(y,z, t) to take into account the future consequences of the choice of controls z at t."**
