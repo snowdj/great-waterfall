@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Dynamic programming
 category: econ457
@@ -46,9 +46,4 @@ Acyclic graph
 
 ##### Problem Statement
 
-Given  a  directed  graph  where  each  arc  is  assigned  a numerical  length, we want to find the shortest path between a  specified origin s  and a specified  destination t, where the  length of a path is equal to the sum of the arc lengths on that path. 
-
-
-
-
-
+Given  a  directed  graph  where  each  arc  is  assigned  a numerical  length, we want to find the shortest path between a  specified origin s  and a specified  destination t, where the  length of a path is equal to the sum of the arc lengths on that path.
