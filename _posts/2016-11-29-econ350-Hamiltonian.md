@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Hamiltonian and Stock-Flow Problem
 category: econ350
@@ -149,10 +149,3 @@ $$
 P 156
 
 example 10.2 optimum growth
-
-
-
-
-
-
-
