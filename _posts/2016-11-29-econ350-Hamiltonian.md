@@ -93,7 +93,7 @@ where $Y_{t+1} - Y_{t} = Q_{t}$.
 Then
 
 $$
-\frac{d H^* }{ d \pi_{t+1}} = $Y_{t+1} - Y_{t}
+\frac{d H^* }{ d \pi_{t+1}} = Y_{t+1} - Y_{t}
 $$
 
 
