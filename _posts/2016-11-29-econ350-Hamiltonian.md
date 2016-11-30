@@ -71,7 +71,7 @@ $$
 Since
 
 $$
--{d H^* /over d Y_t} = - {d L /over d \Y_{t}}
+-{d H^* /over d Y_t} = - {d L /over d Y_{t}}
 $$
 
 4. "$Y$  connector "
