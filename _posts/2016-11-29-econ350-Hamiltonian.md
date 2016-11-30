@@ -109,7 +109,16 @@ $$
  -H^*_{Y_{t}}  = \pi_{t+1} -\pi_{t}
 $$
  
- " These can be thought of as a dividend. The change in price $ \pi_{t+1} -\pi_{t} $ is like a capital gain, except that the prices are in present-value terms, so $\pi_{t+1} $  contains an extra discount factor that captures the usual interest or opportunity cost of " 
+**" These can be thought of as a dividend. The change in price $ \pi_{t+1} -\pi_{t} $ is like a capital gain, except that the prices are in present-value terms, so $\pi_{t+1} $  contains an extra discount factor that captures the usual interest or opportunity cost of carrying y_t for one period. "**
+
+"When y_t is optimum, the overall marginal return ,or the sum of these components, should be zero. That is just what (10.8) express when written as "
+
+
+$$
+[F_{Y_t}] + \pi_{t+1} Q_{Y_t} +[  \pi_{t+1} -\pi_{t}] = 0 
+$$
+
+
  
  c.
 $$
