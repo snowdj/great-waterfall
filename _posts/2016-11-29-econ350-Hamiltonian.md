@@ -151,4 +151,4 @@ P 156
 example 10.2 optimum growth
 
 
-{a+1\over b+1}
+
