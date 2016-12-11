@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 [ECON 382 Final Review Material](https://www.dropbox.com/s/iyaez88rt83b12v/382FinalExam.pdf?dl=0)
 
