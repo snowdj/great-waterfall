@@ -1,0 +1,121 @@
+---
+published: false
+---
+[ECON 382 Final Review Material](https://www.dropbox.com/s/iyaez88rt83b12v/382FinalExam.pdf?dl=0)
+
+### Nonrewable: mineral
+
+Hotelling rule:
+
+RENT0 = PV RENT 1
+
+ - efficient:
+    MUC0 = MB0-MC0
+ - competetive market:
+   RENT0 = MUC0 = P - MC0
+ - monopoly: 
+   RENT0 = MUC0 = MR0 - MC0
+
+
+### Recycling
+
+MCv = MCr
+
+### Energy
+
+
+
+### 2 Fishery 
+
+#### Problem set 4
+
+
+
+the Gordon-Schaefer model of an open access fishery.
+
+
+
+H(E)  S(E) are all functions of Effort. 
+
+The most important point is to using Effort as the choice effort other than the H or Quantity. 
+
+The Open access optimal result is $P*H(E) = TC = (w/P)* E$ .
+
+
+
+
+
+
+### 3 Forest resources
+
+
+
+_Definitions_ 
+
+**Current annual increment (CAI)** – year-to-year growth. We will
+measure growth in terms of volume (e.g., cubic feet).
+
+**Mean annual increment (MAI)** – average growth; stand volume
+divided by stand age.
+
+**Culmination age** – the age at which a 2mber stand reaches its
+highest MAI.
+
+**Rotation** – the planned number of years between the forma2on
+of a tree crop or stand and its final cufng at a specified stage of
+maturity.
+
+**Hardwood** – trees that produce seeds with some type of covering.
+
+**Softwood** – trees that produce seeds with no covering; usually
+have needle- or scale-like leaves.
+
+[source](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/T_GROWTH.HTM)
+
+Juvenile phase (youth) - accelerating rate of growth.
+![](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/g/juvenile.GIF)
+
+
+Full vigour phase (maturity) - constant rate of growth
+
+![](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/g/mature.GIF)
+
+
+
+Senescent phase - decelerating rate of growth.
+
+
+![](http://fennerschool-associated.anu.edu.au/mensuration/BrackandWood1998/g/senescen.GIF)
+
+
+#### Problem set 4 
+
+Question 2
+
+Maximum volumn
+
+maximum amount of biological growth. 
+
+maximum average growth.
+
+
+
+
+#### the Faustmann model
+
+##### Discrete time and Continous time
+optimal condition is 
+
+$$ \frac{CAI(t) }{S(t)} = r   $$
+
+where $CAI = \frac{d S(t)}{d t}$
+
+
+
+#### the Faustmann rule
+
+
+
+MB of waiting  = MC of waiting
+
+$$ [P - Ch] \frac{d S(t)}{d T} = r \frac{[P - Ch]S（T） - Cp }{1-  e^{-rT}}  $$
