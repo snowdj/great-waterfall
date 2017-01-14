@@ -28,7 +28,7 @@ published: true
             
             {% for category in post.categories %}
 	    
-			<a class="codinfox-tag-mark badge" href="{{ site.url }}/categories/#{{ category | slugify }}" >
+			<a class="codinfox-tag-mark badge" href="{{ site.url }}/categories.html#{{ category | slugify }}" >
 				  @{{ category }}
 			</a>
 			
@@ -41,7 +41,7 @@ published: true
             |&nbsp;
             {% for tag in post.tags %}
 	    
-			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tags/#{{ tag | slugify }}" >
+			<a class="codinfox-tag-mark badge" href="{{ site.url }}/tags.html#{{ tag | slugify }}" >
 				  #{{ tag }}
 			</a>
 			
