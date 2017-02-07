@@ -18,6 +18,9 @@ add those two in your head.html using liquid template.
 <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
+<script src="https://cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.min.js"></script>
+<link rel="stylesheet" href="https://cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.css">
+
 
 {% endhighlight %}
 
